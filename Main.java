@@ -6,6 +6,7 @@ public class Main {
      *  recursive method the main method will output a string along with the all first 10
      *  terms of the Fib sequence.
      * @param args outputs a string message along with our 'fib' method
+     * @author Jade Boone 
      */
     public static void main(String[] args) {
         int n = 10;
